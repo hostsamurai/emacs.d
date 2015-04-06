@@ -1,0 +1,1 @@
+(highlight-defined-mode)
